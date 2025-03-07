@@ -1,0 +1,23 @@
+
+.filters h3 {
+    margin-top: 0;
+    font-size: 18px;
+    color: #333;
+}
+
+.filter-category {
+    margin-bottom: 20px;
+}
+
+.filter-category h4 {
+    margin: 0 0 10px 0;
+    font-size: 16px;
+    color: #555;
+}
+
+.filter-category label {
+    display: block;
+    margin: 5px 0;
+    font-size: 14px;
+    color: #666;
+}
